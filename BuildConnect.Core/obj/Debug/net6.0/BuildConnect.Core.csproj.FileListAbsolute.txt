@@ -1,0 +1,12 @@
+C:\Users\ComputerOne\Documents\projects\BuildConnect\BuildConnect.Backend\BuildConnect.Core\bin\Debug\net6.0\BuildConnect.Core.deps.json
+C:\Users\ComputerOne\Documents\projects\BuildConnect\BuildConnect.Backend\BuildConnect.Core\bin\Debug\net6.0\BuildConnect.Core.dll
+C:\Users\ComputerOne\Documents\projects\BuildConnect\BuildConnect.Backend\BuildConnect.Core\bin\Debug\net6.0\BuildConnect.Core.pdb
+C:\Users\ComputerOne\Documents\projects\BuildConnect\BuildConnect.Backend\BuildConnect.Core\obj\Debug\net6.0\BuildConnect.Core.csproj.AssemblyReference.cache
+C:\Users\ComputerOne\Documents\projects\BuildConnect\BuildConnect.Backend\BuildConnect.Core\obj\Debug\net6.0\BuildConnect.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ComputerOne\Documents\projects\BuildConnect\BuildConnect.Backend\BuildConnect.Core\obj\Debug\net6.0\BuildConnect.Core.AssemblyInfoInputs.cache
+C:\Users\ComputerOne\Documents\projects\BuildConnect\BuildConnect.Backend\BuildConnect.Core\obj\Debug\net6.0\BuildConnect.Core.AssemblyInfo.cs
+C:\Users\ComputerOne\Documents\projects\BuildConnect\BuildConnect.Backend\BuildConnect.Core\obj\Debug\net6.0\BuildConnect.Core.csproj.CoreCompileInputs.cache
+C:\Users\ComputerOne\Documents\projects\BuildConnect\BuildConnect.Backend\BuildConnect.Core\obj\Debug\net6.0\BuildConnect.Core.dll
+C:\Users\ComputerOne\Documents\projects\BuildConnect\BuildConnect.Backend\BuildConnect.Core\obj\Debug\net6.0\refint\BuildConnect.Core.dll
+C:\Users\ComputerOne\Documents\projects\BuildConnect\BuildConnect.Backend\BuildConnect.Core\obj\Debug\net6.0\BuildConnect.Core.pdb
+C:\Users\ComputerOne\Documents\projects\BuildConnect\BuildConnect.Backend\BuildConnect.Core\obj\Debug\net6.0\ref\BuildConnect.Core.dll

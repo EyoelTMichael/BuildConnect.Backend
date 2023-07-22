@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6n+SaIp5Yxmsr61Koy+cnqz5+K/ZVWkJ2l1x71/cZlxOlDsqsPcb9Y0Xz8LQlHuA0TAJ/ienTnUZCGuT61+bcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ComputerOne\\Documents\\projects\\BuildConnect\\BuildConnect.Backend\\DailyReport.Api\\DailyReport.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ComputerOne\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ComputerOne\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ComputerOne\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\ComputerOne\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\ComputerOne\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\ComputerOne\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\ComputerOne\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
