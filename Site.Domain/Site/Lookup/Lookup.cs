@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static Site.Domain.Enums.Enums;
 
-namespace Site.Domain.Site
+namespace Site.Domain.Site.Lookup
 {
     public class Lookup
     {

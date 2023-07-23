@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DailyReport.Domain.DailyReport
 {
-    public class StaffOnSite
+    public class StaffOnSiteReport
     {
         public Guid Id { get; set; }
 

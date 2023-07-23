@@ -26,7 +26,7 @@ namespace DailyReport.Domain.DailyReport
 
         public List<Material> MaterialReports { get; set; }
 
-        public List<DailyWorkProgress> DailyWorkProgressReports { get; set; }
+        public List<DailyWorkProgressReport> DailyWorkProgressReports { get; set; }
 
         public string Remark { get; set; }
 
